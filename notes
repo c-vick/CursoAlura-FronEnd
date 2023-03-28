@@ -1,0 +1,18 @@
+https://www.alura.com.br/artigos/principais-comunidades-front-end
+
+https://www.alura.com.br/artigos/extensoes-vs-code-descubra-as-mais-usadas
+
+<!DOCTYPE html>
+<html lang>
+    <head>
+        <!-- Which is shown in the browser's title bar or in the page's tab -->
+        <title>CursoAlura</title> 
+    </head>
+    <body> <!-- All that is visible -->
+        <!-- My first heading (h1 ~ h6) -->
+         <h1>Título</h1>
+         <h2>Subtítulo</h2>
+         <p>Parágrafo</p>
+         <img src="butterfly.webp" alt="Borboleta Azul">
+    </body>
+</html>
